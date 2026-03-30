@@ -48,7 +48,7 @@ Navigation and sections stack properly on mobile devices.
 
 ## 🚀 Live Demo
 
-Live site: https://shittuadams.github.io/cain-homepage-assessment/
+Live site: https://shittuadams.github.io/Cain_African_Homepage/
 
 ---
 
